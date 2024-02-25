@@ -1,0 +1,6 @@
+City: Calgary, X: 100, Y: 50
+City: Edmonton, X: 100, Y: 150
+City: Vancouver, X: 50, Y: 50
+City: Regina, X: 200, Y: 50
+City: Toronto, X: 500, Y: 50
+City: Montreal, X: 200, Y: 50
